@@ -1,0 +1,87 @@
+body {
+    background-color: #ccc5c5;
+    color: black;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: normal;
+    text-align: justify;
+    line-height: 2;
+    margin: 0;
+}
+
+h1 {
+    font: bold;
+    font-family: geneva, sans-serif;
+    font-size: 40px;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+}
+
+h2 {
+    font-family: helvetica;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 0;
+    color: rgb(92, 87, 87);
+}
+
+a {
+    color: rgb(37, 40, 44);
+}
+ 
+header, footer {
+    background-color: rgb(92, 87, 87);
+}
+
+footer {
+    font-size: 15px;
+    text-align: center
+}
+
+.foto-omne {
+    width: 150px;
+    float: left;
+    margin: 0px 30px 30px 0px;
+    border-radius: 0px 10px 10px 10px;
+}
+
+.kontakt h2 {
+    clear: left;
+}
+
+.kontakt {
+    margin-top: 0px;
+    padding-top: 0px;
+}
+
+section {
+    padding: 40px 15% ;
+    overflow: auto;
+}
+
+footer {
+    padding: 20px 0;
+    margin: 20px 0;
+}
+
+.menu li {
+    display: inline-block;
+    margin-bottom: 15px;
+}
+
+.menu {
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(92, 87, 87);
+    font: arial;
+    text-align: center;
+}
+
+.menu a {
+    color: white;
+    text-decoration: none;
+    padding: 20px 50px;
+    display: inline-block;
+    border: 2px dashed #ccc5c5;
+}
